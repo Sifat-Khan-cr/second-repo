@@ -1,0 +1,29 @@
+<style>
+        .para{
+            background-color: blue;
+            color:rgb(39, 237, 4);
+            border:10px solid burlywood;
+            text-align: justify;
+            padding: 15px;
+            margin: 0px;
+            margin: 15px;
+        }
+        #st{
+            font-size: 20px;
+            font-style: bold;
+            color: red;
+        }
+        #nd{
+            font-size: 30px;
+            font-style: bold;
+            color: rgb(179, 17, 38);
+        }
+        #head{
+            color: red;
+            text-align: center;
+            border: 2px solid green;
+            background-color: yellow;
+            
+        }
+
+    </style>
